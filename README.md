@@ -1,3 +1,3 @@
 # Roman Trigidko
 
-[Lesson 12](https://github.com/svaznoy99/svaznoy99.github.io)
+[Lesson 12](https://svaznoy99.github.io/index.html)
